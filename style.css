@@ -1,9 +1,11 @@
 /* box 1 */
+
 * {
     margin: 0;
     font-family: Arial;
     border: border-box;
 }
+
 .navbar{
     height: 60px;
     background-color: #0f1111;
@@ -223,6 +225,7 @@ footer{
    display: flex;
    justify-content: space-evenly;
 }
+
 ul{
    margin-top: 20px;
 }
